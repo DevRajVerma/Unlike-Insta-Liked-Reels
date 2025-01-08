@@ -25,6 +25,9 @@ Before running the script, make sure you have:
 1. Clone this repository:
 ```bash
 git clone https://github.com/DevRajVerma/Unlike-Insta-Liked-Reels.git
+```
+
+```bash
 cd Unlike-Insta-Liked-Reels
 ```
 
@@ -111,6 +114,12 @@ Feel free to:
 - Suggest improvements
 - Submit pull requests
 - Share your experience
+
+## Personal Note from the author
+
+This is currently fetching 21 liked posts once you run this script, to remove all the liked videos from your account, you have to run this script multiple times
+
+You don't have to care about privacy as this is open-source code, you can review this code line by line and check yourself if you don't trust me
 
 ## Disclaimer ⚖️
 
