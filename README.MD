@@ -40,6 +40,7 @@ pip install instagrapi
 
 1. Open `unlike_instagram.py` in a text editor
 2. Replace the placeholder credentials with your Instagram login details:
+( You can search your_username using Ctrl + F in your text editor )
 ```python
 username = "your_username"  # Enter your Instagram username
 password = "your_password"  # Enter your Instagram password
